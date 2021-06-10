@@ -1,4 +1,3 @@
-![fsfc jpg](https://user-images.githubusercontent.com/69143091/121513987-1d4c7b00-ca09-11eb-90d5-50a7867f94f7.jpg)
 Aim :
 
 Write a C program to implement the various process scheduling mechanisms such as FCFS scheduling.
@@ -26,7 +25,7 @@ b. Average Turnaround time = Total Turnaround Time / Number of process
 7: Stop the process
 
 OUTPUT:
-
+![fsfc jpg](https://user-images.githubusercontent.com/69143091/121513987-1d4c7b00-ca09-11eb-90d5-50a7867f94f7.jpg)
 
 
 
