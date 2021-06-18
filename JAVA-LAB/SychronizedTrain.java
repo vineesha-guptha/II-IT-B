@@ -56,8 +56,8 @@ Thread t1 = new Thread(obj);
 Thread t2 = new Thread (obj);
 
 //take the thread name as persons Names
-t1.setName("sreeja");
-t2.setName("rishi");
+t1.setName("vinisha);
+t2.setName("neha");
 //send the requests for berths
 t1.start();
 t2.start();
