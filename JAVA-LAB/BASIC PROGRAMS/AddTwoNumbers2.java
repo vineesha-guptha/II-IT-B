@@ -16,4 +16,4 @@ public class AddTwoNumbers2 {
         System.out.println("Sum of these numbers: "+sum);
     }
 }
-© 2021 GitHub, Inc.
+
